@@ -1,0 +1,4 @@
+int a,b,c,d, e
+read a, b
+sum=a+b;
+print sum
