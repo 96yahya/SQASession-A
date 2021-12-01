@@ -1,4 +1,6 @@
-int a,b,c,d, e
+int a,b,c,d, difference
 read a, b
 sum=a+b;
 print sum
+difference=a-b
+print difference
